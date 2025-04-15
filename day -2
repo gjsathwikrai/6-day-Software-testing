@@ -1,0 +1,23 @@
+On Day 2, we developed a personal portfolio website to showcase our skills, projects, and achievements.
+The site features sections like About Me, Projects, Skills, and Contact.
+It has a clean, responsive design that works well on all devices.
+We used HTML, CSS, JavaScript, and also integrated FastAPI for backend functionality.
+FastAPI was used to handle contact form submissions and future API integrations.
+The website includes smooth scrolling, animations, and a professional layout.
+It serves as a platform for career growth, internships, and networking.
+The project helped us enhance both frontend and backend development skills.
+This was a collaborative effort carried out as part of our learning process.
+  
+GitHub Repository: https://github.com/Shamanth-k/profile.git
+
+we developed a simple Bug Reporting System to streamline issue tracking and management.
+The system allows users to report software bugs with details like title, description, and severity.
+We implemented a clean interface for submitting and viewing bug reports.
+FastAPI was used to build the backend API for handling bug data and storing it securely.
+The frontend was developed using HTML, CSS, and JavaScript for a smooth user experience.
+Bug reports are displayed in a structured format for easy review and debugging.
+This system is useful for developers to keep track of issues in their projects.
+It helped us understand form handling, API integration, and CRUD operations.
+The project focused on creating a functional and minimal bug tracking tool.
+
+GitHub Repository: https://github.com/Shamanth-k/BUG-REPORT.git
